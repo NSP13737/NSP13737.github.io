@@ -3,11 +3,11 @@ listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
  - title: University of Kansas, BA in Computer Engineering
-    description: p
+   description:
       - Accepted to Self Engineering Leadership Fellows Program (SELF)
     date: Aug. 2024 - Present
   - title: Shawnee Mission West High School
-    description: p
+    description:
       - Focus on engineering courses including, Digital Electronics, Cybersecurity, Aerospace, and AP Physics 2
       - AP Courses - Calc BC [5], Computer Science A [5], Physics 2 [5], Physics 1 [5], Microeconomics [5], Macroeconomics [5]
     grade: "**GPA**: `4.0/4.9`"
