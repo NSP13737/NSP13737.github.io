@@ -2,12 +2,15 @@ subject: Awards
 listing-order: 6
 icon: "/assets/img/trophy.svg"
 contents:
-  - title: IEEEE Fellow
-    description: Association for Natural Language Processing
-    date: Feb. 2024
-  - title: Gogle CodeJam
-    description: 3rd place in Gogle CodeJam
-    date: Jul. 2013
-  - title: Millennium Hackaton
-    description: won the best Inspirational Youth Awards
-    date: Oct. 2010
+ - title: SMSD Research & Development Forum
+    description: won highest award in engineering/invention category
+    date: Mar. 2024
+  - title: National Merit Scholar Commended Scholar
+    description: Recieved top 3% PSAT score as junior in the nation
+    date: Jan. 2023
+  - title: Eagle Scout
+    description: Organized and constructed outdoor classroom for middle school
+    date: May. 2022
+  - title: Sons of the American Revolution Essay Contest
+    description: Two time state winner, placed 15th nationally
+    date: Dec. 2023
