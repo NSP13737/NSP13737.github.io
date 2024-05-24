@@ -1,22 +1,21 @@
-subject: Experiences
+subject: Experience
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Information & Smart Systems Laboratory
+    role: Independent Electrical Engineering Researcher
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+      - Client connected project under supervision of Dr. Huazhen Fang, University of Kansas
+      - Developing lightweight, solar PV, charge controller
+      - Designed custom 4 layer PCB solution for lightweight and mobile, high current charging for minimum viable product
+      - After MVP, programmed STM8 MCU on breakout PCB, implementing MPPT algorithm on the charging IC
+    date: Jun. 2023 - Ongoing
+  - title: Garmin
+    role: Mechanical Engineering Aviation Intern
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
-    description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Designed and modeled assemblies
+      - Integrated 3D assemblies with current hardware
+      - Tested units for durability & reliability
+      - Reviewed design with co-workers to improve assembly
+      - Maintained catalog of current parts and hardware
+    date: Jan. 2023 - May. 2023
